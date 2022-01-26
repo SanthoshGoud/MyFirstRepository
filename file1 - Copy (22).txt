@@ -16,7 +16,7 @@ $ touch file1.txt
 
 ssaara@IM-LP-1894 MINGW64 ~/Desktop/git (master)
 $ git status
-On branch master
+
 
 
 
