@@ -18,7 +18,7 @@ ssaara@IM-LP-1894 MINGW64 ~/Desktop/git (master)
 $ git status
 On branch master
 
-No commits yet
+
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
